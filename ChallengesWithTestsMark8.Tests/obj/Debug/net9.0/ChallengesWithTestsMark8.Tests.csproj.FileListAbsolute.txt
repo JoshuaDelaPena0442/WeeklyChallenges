@@ -103,9 +103,6 @@ C:\Users\Harpe\Desktop\NET9\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\
 C:\Users\Harpe\Desktop\NET9\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net9.0\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\Harpe\Desktop\NET9\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net9.0\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
 C:\Users\Harpe\Desktop\NET9\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net9.0\ref\ChallengesWithTestsMark8.Tests.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\ChallengesWithTestsMark8.deps.json
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\ChallengesWithTestsMark8.runtimeconfig.json
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\ChallengesWithTestsMark8.exe
@@ -114,8 +111,6 @@ C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\ChallengesWithTestsMark8.Tests.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -123,8 +118,6 @@ C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\testhost.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\System.Xml.XPath.XmlDocument.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.abstractions.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.assert.dll
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.core.dll
@@ -208,3 +201,7 @@ C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net9.0\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net9.0\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
 C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net9.0\ref\ChallengesWithTestsMark8.Tests.dll
+C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_ChallengesWithTestsMark8.Tests
+C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\testhost.exe
+C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\richm\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
